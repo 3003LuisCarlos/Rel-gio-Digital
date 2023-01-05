@@ -1,2 +1,1 @@
-# Relógio Digital
- Trabalho feito em Js, Html e Css
+# Relógio Digital dinâmico
